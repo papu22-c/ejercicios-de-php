@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="123 76 936 672" width="813px" height="596px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+   <line x1="141" y1="222" x2="131" y2="222" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="128" y1="467" x2="138" y2="467" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="131" y1="222" x2="128" y2="467" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="133.5" y1="222" x2="137.03553390593" y2="225.53553390593" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="133.5" y1="222" x2="137.03553390593" y2="218.46446609407" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="133" y1="467" x2="129.46446609407" y2="470.53553390593" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="133" y1="467" x2="129.46446609407" y2="463.46446609407" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="797" y1="592" x2="787" y2="592" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="789" y1="121" x2="799" y2="121" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="787" y1="592" x2="789" y2="121" style="stroke:#c00;stroke-width:1;"/>
+   <line x1="789.5" y1="592" x2="793.03553390593" y2="595.53553390593" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="789.5" y1="592" x2="793.03553390593" y2="588.46446609407" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="794" y1="121" x2="790.46446609407" y2="124.53553390593" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="794" y1="121" x2="790.46446609407" y2="117.46446609407" style="stroke:#c00;stroke-width:2;"/>
+   <line x1="541" y1="517" x2="551" y2="517" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="787" y1="512" x2="797" y2="512" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="551" y1="517" x2="787" y2="512" style="stroke:#0bf;stroke-width:1;"/>
+   <line x1="548.5" y1="517" x2="544.96446609407" y2="520.53553390593" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="548.5" y1="517" x2="544.96446609407" y2="513.46446609407" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="792" y1="512" x2="788.46446609407" y2="515.53553390593" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="792" y1="512" x2="788.46446609407" y2="508.46446609407" style="stroke:#0bf;stroke-width:2;"/>
+   <line x1="440" y1="537" x2="430" y2="537" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="252" y1="122" x2="242" y2="122" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="430" y1="537" x2="252" y2="122" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="432.5" y1="537" x2="436.03553390593" y2="540.53553390593" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="432.5" y1="537" x2="436.03553390593" y2="533.46446609407" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="247" y1="122" x2="250.53553390593" y2="125.53553390593" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="247" y1="122" x2="250.53553390593" y2="118.46446609407" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="538" y1="145" x2="548" y2="145" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="789" y1="121" x2="799" y2="121" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="548" y1="145" x2="789" y2="121" style="stroke:#bbb;stroke-width:1;"/>
+   <line x1="545.5" y1="145" x2="541.96446609407" y2="148.53553390593" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="545.5" y1="145" x2="541.96446609407" y2="141.46446609407" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="794" y1="121" x2="790.46446609407" y2="124.53553390593" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="794" y1="121" x2="790.46446609407" y2="117.46446609407" style="stroke:#bbb;stroke-width:2;"/>
+   <line x1="437" y1="125" x2="427" y2="125" style="stroke:#333;stroke-width:1;"/>
+   <line x1="252" y1="122" x2="242" y2="122" style="stroke:#333;stroke-width:1;"/>
+   <line x1="427" y1="125" x2="252" y2="122" style="stroke:#333;stroke-width:1;"/>
+   <line x1="429.5" y1="125" x2="433.03553390593" y2="128.53553390593" style="stroke:#333;stroke-width:2;"/>
+   <line x1="429.5" y1="125" x2="433.03553390593" y2="121.46446609407" style="stroke:#333;stroke-width:2;"/>
+   <line x1="247" y1="122" x2="250.53553390593" y2="125.53553390593" style="stroke:#333;stroke-width:2;"/>
+   <line x1="247" y1="122" x2="250.53553390593" y2="118.46446609407" style="stroke:#333;stroke-width:2;"/>
+   <line x1="138" y1="467" x2="128" y2="467" style="stroke:#333;stroke-width:1;"/>
+   <line x1="131" y1="222" x2="141" y2="222" style="stroke:#333;stroke-width:1;"/>
+   <line x1="128" y1="467" x2="131" y2="222" style="stroke:#333;stroke-width:1;"/>
+   <line x1="130.5" y1="467" x2="134.03553390593" y2="470.53553390593" style="stroke:#333;stroke-width:2;"/>
+   <line x1="130.5" y1="467" x2="134.03553390593" y2="463.46446609407" style="stroke:#333;stroke-width:2;"/>
+   <line x1="136" y1="222" x2="132.46446609407" y2="225.53553390593" style="stroke:#333;stroke-width:2;"/>
+   <line x1="136" y1="222" x2="132.46446609407" y2="218.46446609407" style="stroke:#333;stroke-width:2;"/>
+   <rect width="109" height="20" x="799" y="91" style="fill:#007;stroke:black;"/>
+   <text width="109" height="20" x="804" y="105" style="fill:#fff;" font-family="Arial" font-size="16px"> alumnos</text>
+   <rect width="109" height="20" x="799" y="111" style="fill:#aea;stroke:black;"/>
+   <text width="109" height="20" x="804" y="125" style="fill:black;" font-family="Arial" font-size="16px">IDalumnos</text>
+   <rect width="109" height="20" x="799" y="131" style="fill:none;stroke:black;"/>
+   <text width="109" height="20" x="804" y="145" style="fill:black;" font-family="Arial" font-size="16px">NIF</text>
+   <rect width="109" height="20" x="799" y="151" style="fill:none;stroke:black;"/>
+   <text width="109" height="20" x="804" y="165" style="fill:black;" font-family="Arial" font-size="16px">nombre</text>
+   <rect width="109" height="20" x="799" y="171" style="fill:none;stroke:black;"/>
+   <text width="109" height="20" x="804" y="185" style="fill:black;" font-family="Arial" font-size="16px">Apellido</text>
+   <rect width="109" height="20" x="799" y="191" style="fill:none;stroke:black;"/>
+   <text width="109" height="20" x="804" y="205" style="fill:black;" font-family="Arial" font-size="16px">Direccion</text>
+   <rect width="109" height="20" x="799" y="211" style="fill:none;stroke:black;"/>
+   <text width="109" height="20" x="804" y="225" style="fill:black;" font-family="Arial" font-size="16px">Trlrfono</text>
+   <rect width="109" height="20" x="799" y="231" style="fill:none;stroke:black;"/>
+   <text width="109" height="20" x="804" y="245" style="fill:black;" font-family="Arial" font-size="16px">Email</text>
+   <rect width="109" height="20" x="799" y="251" style="fill:none;stroke:black;"/>
+   <text width="109" height="20" x="804" y="265" style="fill:black;" font-family="Arial" font-size="16px">Curso</text>
+   <rect width="109" height="20" x="799" y="271" style="fill:none;stroke:black;"/>
+   <text width="109" height="20" x="804" y="285" style="fill:black;" font-family="Arial" font-size="16px">Nombre_Tutor</text>
+   <rect width="109" height="20" x="799" y="291" style="fill:none;stroke:black;"/>
+   <text width="109" height="20" x="804" y="305" style="fill:black;" font-family="Arial" font-size="16px">Email_Tutor</text>
+   <rect width="101" height="20" x="141" y="92" style="fill:#007;stroke:black;"/>
+   <text width="101" height="20" x="146" y="106" style="fill:#fff;" font-family="Arial" font-size="16px"> asignaturas</text>
+   <rect width="101" height="20" x="141" y="112" style="fill:#aea;stroke:black;"/>
+   <text width="101" height="20" x="146" y="126" style="fill:black;" font-family="Arial" font-size="16px">IDasignatura</text>
+   <rect width="101" height="20" x="141" y="132" style="fill:none;stroke:black;"/>
+   <text width="101" height="20" x="146" y="146" style="fill:black;" font-family="Arial" font-size="16px">Codigo</text>
+   <rect width="101" height="20" x="141" y="152" style="fill:none;stroke:black;"/>
+   <text width="101" height="20" x="146" y="166" style="fill:black;" font-family="Arial" font-size="16px">Asignatura</text>
+   <rect width="101" height="20" x="141" y="172" style="fill:none;stroke:black;"/>
+   <text width="101" height="20" x="146" y="186" style="fill:black;" font-family="Arial" font-size="16px">Descripcion</text>
+   <rect width="101" height="20" x="141" y="192" style="fill:none;stroke:black;"/>
+   <text width="101" height="20" x="146" y="206" style="fill:black;" font-family="Arial" font-size="16px">Clase</text>
+   <rect width="101" height="20" x="141" y="212" style="fill:none;stroke:black;"/>
+   <text width="101" height="20" x="146" y="226" style="fill:black;" font-family="Arial" font-size="16px">IDprofesor</text>
+   <rect width="124" height="20" x="797" y="482" style="fill:#007;stroke:black;"/>
+   <text width="124" height="20" x="802" y="496" style="fill:#fff;" font-family="Arial" font-size="16px"> asistencia</text>
+   <rect width="124" height="20" x="797" y="502" style="fill:#aea;stroke:black;"/>
+   <text width="124" height="20" x="802" y="516" style="fill:black;" font-family="Arial" font-size="16px">IDasistencia</text>
+   <rect width="124" height="20" x="797" y="522" style="fill:none;stroke:black;"/>
+   <text width="124" height="20" x="802" y="536" style="fill:black;" font-family="Arial" font-size="16px">Fecha Matricula</text>
+   <rect width="124" height="20" x="797" y="542" style="fill:none;stroke:black;"/>
+   <text width="124" height="20" x="802" y="556" style="fill:black;" font-family="Arial" font-size="16px">Horario</text>
+   <rect width="124" height="20" x="797" y="562" style="fill:none;stroke:black;"/>
+   <text width="124" height="20" x="802" y="576" style="fill:black;" font-family="Arial" font-size="16px">Duracion</text>
+   <rect width="124" height="20" x="797" y="582" style="fill:none;stroke:black;"/>
+   <text width="124" height="20" x="802" y="596" style="fill:black;" font-family="Arial" font-size="16px">IDalumnos</text>
+   <rect width="101" height="20" x="440" y="487" style="fill:#007;stroke:black;"/>
+   <text width="101" height="20" x="445" y="501" style="fill:#fff;" font-family="Arial" font-size="16px"> clases</text>
+   <rect width="101" height="20" x="440" y="507" style="fill:#aea;stroke:black;"/>
+   <text width="101" height="20" x="445" y="521" style="fill:black;" font-family="Arial" font-size="16px">IDasistencia</text>
+   <rect width="101" height="20" x="440" y="527" style="fill:#aea;stroke:black;"/>
+   <text width="101" height="20" x="445" y="541" style="fill:black;" font-family="Arial" font-size="16px">IDasignatura</text>
+   <rect width="101" height="20" x="437" y="95" style="fill:#007;stroke:black;"/>
+   <text width="101" height="20" x="442" y="109" style="fill:#fff;" font-family="Arial" font-size="16px"> matricula</text>
+   <rect width="101" height="20" x="437" y="115" style="fill:#aea;stroke:black;"/>
+   <text width="101" height="20" x="442" y="129" style="fill:black;" font-family="Arial" font-size="16px">IDasignatura</text>
+   <rect width="101" height="20" x="437" y="135" style="fill:#aea;stroke:black;"/>
+   <text width="101" height="20" x="442" y="149" style="fill:black;" font-family="Arial" font-size="16px">IDalumnos</text>
+   <rect width="85" height="20" x="138" y="437" style="fill:#007;stroke:black;"/>
+   <text width="85" height="20" x="143" y="451" style="fill:#fff;" font-family="Arial" font-size="16px"> profesores</text>
+   <rect width="85" height="20" x="138" y="457" style="fill:#aea;stroke:black;"/>
+   <text width="85" height="20" x="143" y="471" style="fill:black;" font-family="Arial" font-size="16px">IDprofesor</text>
+   <rect width="85" height="20" x="138" y="477" style="fill:none;stroke:black;"/>
+   <text width="85" height="20" x="143" y="491" style="fill:black;" font-family="Arial" font-size="16px">NIF</text>
+   <rect width="85" height="20" x="138" y="497" style="fill:none;stroke:black;"/>
+   <text width="85" height="20" x="143" y="511" style="fill:black;" font-family="Arial" font-size="16px">Nombre</text>
+   <rect width="85" height="20" x="138" y="517" style="fill:none;stroke:black;"/>
+   <text width="85" height="20" x="143" y="531" style="fill:black;" font-family="Arial" font-size="16px">Apellido</text>
+   <rect width="85" height="20" x="138" y="537" style="fill:none;stroke:black;"/>
+   <text width="85" height="20" x="143" y="551" style="fill:black;" font-family="Arial" font-size="16px">Direccion</text>
+   <rect width="85" height="20" x="138" y="557" style="fill:none;stroke:black;"/>
+   <text width="85" height="20" x="143" y="571" style="fill:black;" font-family="Arial" font-size="16px">Telefono</text>
+   <rect width="85" height="20" x="138" y="577" style="fill:none;stroke:black;"/>
+   <text width="85" height="20" x="143" y="591" style="fill:black;" font-family="Arial" font-size="16px">Email</text>
+   <rect width="85" height="20" x="138" y="597" style="fill:none;stroke:black;"/>
+   <text width="85" height="20" x="143" y="611" style="fill:black;" font-family="Arial" font-size="16px">Usuario</text>
+   <rect width="85" height="20" x="138" y="617" style="fill:none;stroke:black;"/>
+   <text width="85" height="20" x="143" y="631" style="fill:black;" font-family="Arial" font-size="16px">Password</text>
+   <rect width="85" height="20" x="138" y="637" style="fill:none;stroke:black;"/>
+   <text width="85" height="20" x="143" y="651" style="fill:black;" font-family="Arial" font-size="16px">timestamp</text>
+</svg>
